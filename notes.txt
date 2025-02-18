@@ -1,1 +1,3 @@
 command S to save
+
+canvas-sketch sketch.js 
